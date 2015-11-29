@@ -1,7 +1,7 @@
 import { Map, fromJS } from 'immutable';
 import { expect } from 'chai';
 
-import recducer from '../src/reducer';
+import reducer from '../src/reducer';
 
 describe('reducer', () => {
 
